@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="14" failures="0" time="18.1">
+  <testsuite name="Utilities unit tests" errors="0" failures="0" skipped="0" timestamp="2020-04-04T14:57:34" time="3.636" tests="2">
+    <testcase classname="Utilities unit tests Comparing password" name="Utilities unit tests Comparing password" time="0.173">
+    </testcase>
+    <testcase classname="Utilities unit tests Test create authorization token" name="Utilities unit tests Test create authorization token" time="0.006">
+    </testcase>
+  </testsuite>
+  <testsuite name="Create todo by user id test suite" errors="0" failures="0" skipped="0" timestamp="2020-04-04T14:57:34" time="8.554" tests="2">
+    <testcase classname="Create todo by user id test suite Test create todo basically" name="Create todo by user id test suite Test create todo basically" time="0.111">
+    </testcase>
+    <testcase classname="Create todo by user id test suite Test create todo with undefined fields" name="Create todo by user id test suite Test create todo with undefined fields" time="0.003">
+    </testcase>
+  </testsuite>
+  <testsuite name="Create user test suite" errors="0" failures="0" skipped="0" timestamp="2020-04-04T14:57:34" time="16.029" tests="10">
+    <testcase classname="Create user test suite Test create user basically" name="Create user test suite Test create user basically" time="0.101">
+    </testcase>
+    <testcase classname="Create user test suite Test create user with undefined fields" name="Create user test suite Test create user with undefined fields" time="0.081">
+    </testcase>
+    <testcase classname="Create user test suite Test create user without required field" name="Create user test suite Test create user without required field" time="0.064">
+    </testcase>
+    <testcase classname="Find user test suite Test list all user" name="Find user test suite Test list all user" time="0.248">
+    </testcase>
+    <testcase classname="Find user test suite Test find user by id" name="Find user test suite Test find user by id" time="0.237">
+    </testcase>
+    <testcase classname="Find user test suite Test find user with undefined id" name="Find user test suite Test find user with undefined id" time="0.235">
+    </testcase>
+    <testcase classname="Find user test suite Test find user by email" name="Find user test suite Test find user by email" time="1.418">
+    </testcase>
+    <testcase classname="Find user test suite Test find user with undefined email" name="Find user test suite Test find user with undefined email" time="0.238">
+    </testcase>
+    <testcase classname="Update user test suite Test update user" name="Update user test suite Test update user" time="0.001">
+    </testcase>
+    <testcase classname="Delete user test suite Test delete user" name="Delete user test suite Test delete user" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
